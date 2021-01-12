@@ -1,0 +1,8 @@
+main: me.myfirstplugin.welcome.Main
+name: welcome
+version: 1.0
+author: JeremyJD
+commands:
+  market: 
+    usage: /market
+  
